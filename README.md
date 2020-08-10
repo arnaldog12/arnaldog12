@@ -17,9 +17,9 @@ I'm Arnaldo Gualberto, a Machine Learning and Deep Learning Engineer.
 
 ## Get in touch
 
-- 🌐 [my personal website](www.arnaldogualberto.com): to learn more about me.
-- <img height="20" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIn](https://www.linkedin.com/in/arnaldo-gualberto/): to connect with me.
-- <img height="15" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTghi0H7gitTfXtM-FTY0AkMga34FgWoLFCg&usqp=CAU"> [Medium](medium.com/@arnaldog12): to read about thing I like to write.
+- 🌐 [Personal website](www.arnaldogualberto.com)
+- <img height="20" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIn](https://www.linkedin.com/in/arnaldo-gualberto/)
+- <img height="15" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTghi0H7gitTfXtM-FTY0AkMga34FgWoLFCg&usqp=CAU"> [Medium](medium.com/@arnaldog12)
 
 ![Arnaldo's github stats](https://github-readme-stats.vercel.app/api?username=arnaldog12&count_private=true&show_icons=true&theme=algolia)
 
