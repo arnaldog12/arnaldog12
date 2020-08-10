@@ -9,7 +9,10 @@ I'm Arnaldo Gualberto, a Machine Learning and Deep Learning Engineer.
 
 ## Things I am passionate about
 
-- 🤖 Machine Learning and Deep Learning
+- 📈Machine Learning
+- 🤖Deep Learning
+- 🧠Neural Networks
+- 👁️Computer Vision
 - <img height="20" src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png"> TensorFlow
 
 ## Get in touch
