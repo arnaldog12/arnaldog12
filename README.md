@@ -2,7 +2,7 @@
 
 I'm Arnaldo Gualberto, a Machine Learning and Deep Learning Engineer.
 
-- <img height="25" src="https://wildlifestudios.com/wp-content/themes/wildlife/assets/images/logo.png"> Machine Learning Analyst at [Wildlife Studios](https://www.wildlifestudios.com/).
+- <img height="13" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/pjmgbwnzrj3plho8fmol"> Machine Learning Analyst at [Wildlife Studios](https://www.wildlifestudios.com/).
 - <img height="15" src="https://seeklogo.com/images/G/google-developers-logo-3FB15D7DCE-seeklogo.com.png"> Google Developer Expert in Machine Learning
 - <img height="20" src="https://nitt.ufcg.edu.br/wp-content/uploads/2017/09/LOGO_UFCG_paralax-279x300.png"> PhD Candidate in Deep Learning by UFCG
 - <img height="15" src="https://cdn.worldvectorlogo.com/logos/udemy-1.svg"> Teacher at [Udemy](https://www.udemy.com/course/redes-neurais/?referralCode=34C61CFBEACD87D2FD37). 
