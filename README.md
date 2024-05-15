@@ -2,9 +2,9 @@
 
 I'm Arnaldo Gualberto, a Machine Learning and Deep Learning Engineer.
 
-- 🍅 Machine Learning Analyst at [Clicampo](https://www.wildlifestudios.com/).
+- 🍅 Machine Learning Analyst at [Advolve](https://www.advolve.ai/).
 - <img height="15" src="https://seeklogo.com/images/G/google-developers-logo-3FB15D7DCE-seeklogo.com.png"> Google Developer Expert in Machine Learning
-- <img height="20" src="https://nitt.ufcg.edu.br/wp-content/uploads/2017/09/LOGO_UFCG_paralax-279x300.png"> PhD Candidate in Deep Learning by UFCG
+- <img height="20" src="https://nitt.ufcg.edu.br/wp-content/uploads/2017/09/LOGO_UFCG_paralax-279x300.png"> PhD in Deep Learning by UFCG
 - <img height="15" src="https://cdn.worldvectorlogo.com/logos/udemy-1.svg"> Teacher at [Udemy](https://www.udemy.com/course/redes-neurais/?referralCode=34C61CFBEACD87D2FD37). 
 - <img height="20" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/23997610"> TensorFlow Developer Certificated
 
@@ -14,11 +14,12 @@ I'm Arnaldo Gualberto, a Machine Learning and Deep Learning Engineer.
 - 🤖 Deep Learning
 - 🧠 Neural Networks
 - 👁️ Computer Vision
+- 🔠 Natural Language Processing
+- 💬 Large Language Models
 - <img height="20" src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png"> TensorFlow
 
 ## Get in touch
 
-- 🌐 [Personal website](www.arnaldogualberto.com)
 - <img height="20" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIn](https://www.linkedin.com/in/arnaldo-gualberto/)
 - <img height="15" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTghi0H7gitTfXtM-FTY0AkMga34FgWoLFCg&usqp=CAU"> [Medium](medium.com/@arnaldog12)
 
